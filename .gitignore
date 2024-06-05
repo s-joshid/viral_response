@@ -8,6 +8,9 @@
 # data directories
 data/
 
+#containers directory 
+containers/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
